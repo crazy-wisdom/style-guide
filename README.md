@@ -8,6 +8,7 @@ Popular program language style guide collections.
 [javascript.info js](https://javascript.info/coding-style)
 
 [Ruby](https://github.com/airbnb/ruby)
+[Ruby](https://github.com/rubocop/ruby-style-guide)
 
 [CSS/SCSS](https://github.com/airbnb/css)
 
